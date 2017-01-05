@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Share Via SMS"
+        android:id="@+id/shareSms"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_send_white_24dp"/>
+    <item android:title="Sun Time Table"
+        android:id="@+id/generateSuntimes"/>
+
+</menu>

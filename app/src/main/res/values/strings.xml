@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SunTimeApp C8</string>
+    <string name="new_locations_file">new_locations.txt</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyADWiuXfU2yA2XL-su2cJ9lK5RDym7jfoc
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
